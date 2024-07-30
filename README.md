@@ -13,7 +13,7 @@ Try our simple [balenaCloud](https://www.balena.io/cloud) starter project to set
 
 This is the perfect introductory project to try out [balenaCloud](https://www.balena.io/cloud) and see how everything works.
 
-At the most basic level, this project allows you to display any webpage using a lightweight web browser. This means that you can build a device dedicated to showing anything that runs in a normal web browser. It will boot up and automatically and display your content.
+At the most basic level, this project allows you to display any webpage using a lightweight web browser. This means that you can build a device dedicated to showing anything that runs in a normal web browser. It will boot up automatically and display your content.
 
 Some examples of what you could use this for include:
 
